@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas Garcia! 
-- 👀 I’m interested in JavaScript, MongoDB, HTML, CSS, React Native, VueJS 
-- 🌱 I’m currently learning JavaScript and its Libraries  
+- 👀 I’m interested in JavaScript, Node.js, HTML, CSS, React Native
+- 🌱 I’m currently learning SASS and Node.js  
 - 💞️ I’m looking to collaborate on Entry level JavaScript Front-End Projects
 
 <!---
