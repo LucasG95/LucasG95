@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <b>Lucas Garcia!</b>  
-I'm a 26 years, <b>HR Analyst</b> focused on Tech Recruiting and optimizing the people area management through API integrations.
+I'm a 26 years, <b>HR Analyst</b> focused on Tech Recruiting and optimizing the people area management through API integrations. At <b><a href="https://www.carupi.com.br">CARUPI</a>.</b>
 
 
 - 👀 I’m interested in JavaScript, Node.js, HTML, CSS, React Native
@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
   <a href="https://instagram.com/lu.kegr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lgarcia95/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-Based on Niterói - Rio de Janeiro - Brazil <b>🇧🇷</b>
+Based on <b>Niterói</b> - Rio de Janeiro - Brazil <b>🇧🇷</b>
