@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <b>Lucas Garcia!</b>  
-I'm a 26 years old <b>HR Analyst</b> focused on Tech Recruiting and optimizing the people area management through API integrations. At <b><a href="https://www.carupi.com.br">CARUPI</a>.</b>
+I'm a 26 years old <b>HR Analyst</b> focused on Tech Recruiting and optimizing the people area management through API integrations. 
 
 
 - 👀 I’m interested in JavaScript, Node.js, HTML, CSS, React Native
